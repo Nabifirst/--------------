@@ -1,0 +1,12 @@
+.container{
+    max-width: 1520px;
+    margin: 0 auto;
+}
+.css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+    border-radius: 20px !important;
+    background: transparent !important ; 
+}
+.MuiPaper-root .MuiPaper-elevation .MuiPaper-elevation16 .MuiDrawer-paper .MuiDrawer-paperAnchorLeft .css-4t3x6l-MuiPaper-root-MuiDrawer-paper{
+    margin-left: 200px !important;
+    left: 100px !important;
+}
